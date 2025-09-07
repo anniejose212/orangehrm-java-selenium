@@ -1,2 +1,2 @@
 # orangehrm-java-selenium
- A lightweight Java + Selenium + JUnit framework for OrangeHRM with Page Object Model.
+ A lightweight Java + Selenium + TestNG framework for OrangeHRM with Page Object Model.
